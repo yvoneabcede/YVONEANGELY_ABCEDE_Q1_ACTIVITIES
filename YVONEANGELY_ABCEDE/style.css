@@ -1,0 +1,17 @@
+body{
+       background-color: rgb(81, 92, 92);
+
+
+}
+h1{
+    color:#ff0909;
+}
+p{
+    color:rgb(34, 252, 81);
+}
+p{
+    color:hsl(234, 98%, 51%) ;
+}
+button{
+    color: orangered;
+}
